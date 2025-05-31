@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine Learning and Web Application.
 - 🌱 I’m currently learning RNNs.
 - 💞️ I’m looking to collaborate on python library developing.
-- 📫 How to reach me w.xiangyu@qq.com
+- 📫 How to reach me mmy360@foxmail.com
 
 <!---
 mmy360/mmy360 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
